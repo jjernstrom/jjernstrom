@@ -4,8 +4,6 @@ import * from './ComputerScienceDegree'
 import { backend, frontend, databases } from './ProfessionalExperience'
 
 var summary = {
-    name: 'Jeffrey Jernstrom'
-
     languages: 'Typescript, Java, Kotlin, Groovy, SQL, C/C++, C#, Python, Haskell'
     
     technologies: 'React.js, Spring Boot, Node.js, Express.js, AWS, Docker, git, GraphQL, 
